@@ -11,7 +11,7 @@ Sou desenvolvedor júnior com cerca de 2 anos de experiência prática. Trabalhe
 ## Sobre mim
 
 - Estagiário full-stack na **LAB245** (ago/2024 a jul/2026)
-- Publiquei produtos em produção; o principal é o e-commerce [Kairyuu TCG](https://kairyuutcg.com.br) (pagamento + frete na GCP)
+- Publiquei produtos em produção; o principal é a loja [Kairyuu TCG](https://kairyuutcg.com.br)
 - Interesses: APIs, automação, dados, cloud e modernização de sistemas
 - Português (nativo) e inglês (fluente)
 - Disponibilidade imediata, remoto BR ou híbrido no RJ
@@ -59,24 +59,30 @@ Sou desenvolvedor júnior com cerca de 2 anos de experiência prática. Trabalhe
 ## Projetos em destaque
 
 ### SiteKairyuu · projeto principal
-**E-commerce Pokémon TCG em produção** · [kairyuutcg.com.br](https://kairyuutcg.com.br)
+**Demo:** [kairyuutcg.com.br](https://kairyuutcg.com.br)
 
-`.NET 10 · Blazor · MySQL · Mercado Pago · Melhor Envio · Docker · Cloud Run · Cloudflare · GitHub Actions`
+Meu maior projeto solo: e-commerce próprio de Pokémon TCG (não Shopify), em produção.
 
-Meu maior projeto solo e o que mais dediquei tempo: loja full-stack própria (não Shopify), do catálogo ao pagamento e ao frete.
+**O que dá para ver na demo**
+- Catálogo de cartas e produtos, busca e vitrine
+- Carrinho, conta de cliente e fluxo de compra
+- Pagamento direto no site (PIX/cartão)
+- Cálculo automático de frete no checkout
 
-- Checkout online com Mercado Pago (PIX/cartão) e webhook de confirmação
-- Frete automático via Melhor Envio (cotação no CEP, etiqueta e rastreio)
-- Reserva de estoque com TTL, catálogo EN/JP, auth Google e painel admin com RBAC
-- Deploy em produção na GCP (Cloud Run + Cloud SQL + GCS) com CI/CD
+**Como foi feito (visão geral, sem código)**
+- Full-stack em .NET e Blazor, com API e painel admin
+- Estoque com reserva temporária para evitar oversell
+- Catálogo EN/JP e login com Google
+- Integração de pagamento e de frete no próprio checkout
+- Código e infraestrutura permanecem privados
 
 ### Outros projetos
 
 #### GerenciadorEstoque
-`C# · Blazor · .NET · MySQL · Cloud Run`  
+`C# · Blazor · .NET · MySQL`  
 [github.com/paulomafraa/GerenciadorEstoque.v2](https://github.com/paulomafraa/GerenciadorEstoque.v2)
 
-App web de gestão de estoque com autenticação, deploy em container e integração com Google Cloud.
+App web de gestão de estoque com autenticação e deploy em nuvem.
 
 #### MiniBit · Sistema P2P
 `Python · sockets`  
