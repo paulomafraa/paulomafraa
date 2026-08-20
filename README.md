@@ -1,6 +1,6 @@
-# Olá! Eu sou o Paulo Mafra Watanabe
+# Paulo Mafra Watanabe
 
-**Desenvolvedor Full-Stack / Backend** · Rio de Janeiro, RJ · UERJ (Ciência da Computação)
+Desenvolvedor full-stack / backend · Rio de Janeiro · UERJ
 
 Sou desenvolvedor júnior com cerca de 2 anos de experiência prática. Trabalhei com C#/.NET, Python, React, SQL e Blazor em sistemas corporativos e em projetos próprios em produção. Gosto de construir ponta a ponta: API, banco, front e deploy.
 
@@ -8,17 +8,13 @@ Sou desenvolvedor júnior com cerca de 2 anos de experiência prática. Trabalhe
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/paulomafraa)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulomwatanabe02@gmail.com)
 
----
-
 ## Sobre mim
 
-- Atuei como estagiário full-stack na **LAB245** (ago/2024 – jul/2026)
+- Estagiário full-stack na **LAB245** (ago/2024 a jul/2026)
 - Publiquei produtos em produção, incluindo e-commerce full-stack na GCP
-- Tenho interesse em APIs, automação, dados, cloud e modernização de sistemas
-- Comunicação em **português** (nativo) e **inglês** (fluente)
-- Disponibilidade imediata · remoto BR ou híbrido no RJ
-
----
+- Interesses: APIs, automação, dados, cloud e modernização de sistemas
+- Português (nativo) e inglês (fluente)
+- Disponibilidade imediata, remoto BR ou híbrido no RJ
 
 ## Stack
 
@@ -50,19 +46,15 @@ Sou desenvolvedor júnior com cerca de 2 anos de experiência prática. Trabalhe
 | **Dados** | SQL Server, PostgreSQL, MySQL, Pandas, DuckDB, ETL, Web Scraping |
 | **Cloud / DevOps** | Docker, Git, GitHub Actions, GCP, Cloudflare, Selenium |
 
----
-
 ## Experiência
 
 ### LAB245 Software · Estagiário Full-Stack
-**ago/2024 – jul/2026**
+**ago/2024 a jul/2026**
 
 - Sistemas em produção com C# (.NET), React e SQL Server
 - Automações com Python/VBA, relatórios e APIs REST (incluindo OpenAI)
 - Modernização de legado VB6 e integrações com serviços modernos
 - Workflows dinâmicos, pipelines ETL e APIs .NET usadas na operação
-
----
 
 ## Projetos em destaque
 
@@ -89,14 +81,10 @@ Projeto de Sistemas Distribuídos (UERJ): tracker, blocos, Rarest First e Tit-fo
 
 App Android de agenda e tarefas com voz e IA.
 
----
-
 ## Formação
 
 **UERJ** · Bacharelado em Ciência da Computação  
 Conclusão prevista: **2027**
-
----
 
 ## GitHub Stats
 
@@ -104,8 +92,6 @@ Conclusão prevista: **2027**
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=paulomafraa&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulomafraa&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
 </div>
-
----
 
 ## Contato
 
