@@ -89,8 +89,8 @@ Conclusão prevista: **2027**
 ## GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=paulomafraa&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulomafraa&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.shion.dev/api?username=paulomafraa&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=paulomafraa&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
 </div>
 
 ## Contato
