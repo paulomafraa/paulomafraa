@@ -11,7 +11,7 @@ Sou desenvolvedor júnior com cerca de 2 anos de experiência prática. Trabalhe
 ## Sobre mim
 
 - Estagiário full-stack na **LAB245** (ago/2024 a jul/2026)
-- Publiquei produtos em produção, incluindo e-commerce full-stack na GCP
+- Publiquei produtos em produção; o principal é o e-commerce [Kairyuu TCG](https://kairyuutcg.com.br) (pagamento + frete na GCP)
 - Interesses: APIs, automação, dados, cloud e modernização de sistemas
 - Português (nativo) e inglês (fluente)
 - Disponibilidade imediata, remoto BR ou híbrido no RJ
@@ -58,24 +58,33 @@ Sou desenvolvedor júnior com cerca de 2 anos de experiência prática. Trabalhe
 
 ## Projetos em destaque
 
-### SiteKairyuu · E-commerce Pokémon TCG (em produção)
-`.NET 10 · Blazor · MySQL · Docker · Cloud Run · Cloudflare · GitHub Actions`
+### SiteKairyuu · projeto principal
+**E-commerce Pokémon TCG em produção** · [kairyuutcg.com.br](https://kairyuutcg.com.br)
 
-E-commerce full-stack próprio: API REST, painel admin, estoque com reserva TTL, catálogo EN/JP, auth Google e deploy na GCP.
+`.NET 10 · Blazor · MySQL · Mercado Pago · Melhor Envio · Docker · Cloud Run · Cloudflare · GitHub Actions`
 
-### GerenciadorEstoque
+Meu maior projeto solo e o que mais dediquei tempo: loja full-stack própria (não Shopify), do catálogo ao pagamento e ao frete.
+
+- Checkout online com Mercado Pago (PIX/cartão) e webhook de confirmação
+- Frete automático via Melhor Envio (cotação no CEP, etiqueta e rastreio)
+- Reserva de estoque com TTL, catálogo EN/JP, auth Google e painel admin com RBAC
+- Deploy em produção na GCP (Cloud Run + Cloud SQL + GCS) com CI/CD
+
+### Outros projetos
+
+#### GerenciadorEstoque
 `C# · Blazor · .NET · MySQL · Cloud Run`  
 [github.com/paulomafraa/GerenciadorEstoque.v2](https://github.com/paulomafraa/GerenciadorEstoque.v2)
 
 App web de gestão de estoque com autenticação, deploy em container e integração com Google Cloud.
 
-### MiniBit · Sistema P2P
+#### MiniBit · Sistema P2P
 `Python · sockets`  
 [github.com/Edaau/MiniBit](https://github.com/Edaau/MiniBit)
 
 Projeto de Sistemas Distribuídos (UERJ): tracker, blocos, Rarest First e Tit-for-Tat.
 
-### AgendAI
+#### AgendAI
 `Android`  
 [github.com/paulomafraa/AgendAI](https://github.com/paulomafraa/AgendAI)
 
